@@ -39,6 +39,8 @@ content:
     content:
       - layout: left
         title: 金融资产收益率的探索性数据分析
+        link: projects/financial-analysis.html
+        link_text: 查看报告
         quote: >
           基于S&P500和黄金历史数据，对金融资产收益率
           进行探索性统计分析
