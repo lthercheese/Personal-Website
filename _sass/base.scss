@@ -239,3 +239,22 @@ body {
     display: none !important;
   }
 }
+
+/* 项目链接蓝色按钮 */
+a.link {
+  display: inline-block;
+  background-color: #477dca;
+  color: white !important;
+  padding: 6px 18px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.9em;
+  margin-top: 8px;
+  transition: background-color 0.2s;
+}
+
+a.link:hover {
+  background-color: #356bb5;
+  text-decoration: none;
+}
