@@ -1,0 +1,12 @@
+﻿* 4bd5d7d docs: 添加验收截图
+* fea1210 docs: 更新 CheckList 全部打勾
+* e467b00 docs: 添加 PRD、Design、Checklist 文档及报告
+* fa4747f docs: 添加 PRD、Design、Checklist 文档
+* 9a02347 style: 项目链接改为蓝色按钮样式
+* edb3675 fix: 修复项目链接和 a.html 模板
+* 729431c fix: 简化 CI 工作流
+* e24d17f fix: 更新 CI 工作流，修复 actions 版本过时问题
+* 7edf93c feat: 添加项目页面链接，启用 remote_theme
+* 700f731 feat: 添加金融分析项目页面链接
+* 44f0432 chore: 删除模板示例图片
+* 94fa913 style: 更换头像为 vangoah.jpg
