@@ -1,0 +1,77 @@
+﻿# Site
+repository: lthercheese/Personal-Website
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: 潘科旭
+title: 金融科技在读
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username: lthercheese
+
+# About Section
+about_profile_image: images/vangoah.jpg
+about_content: |
+  金融科技大数据学生，对金融科技以及Agent大模型应用感兴趣。
+
+content:
+  - title: Skills
+    layout: list
+    content:
+      - layout: left
+        title: 数据分析与建模
+        description: |
+          - **R语言** — 统计分析、数据建模
+          - **Python / Jupyter** — 数据处理与分析
+          - **Excel** — 数据处理与透视表
+      - layout: left
+        title: AI与大模型应用
+        description: |
+          - **大模型应用** — 使用AI Agent辅助开发与数据分析
+          - **数据可视化** — 数据解读与可视化呈现
+  - title: Projects
+    layout: list
+    content:
+      - layout: left
+        title: 金融资产收益率的探索性数据分析
+        quote: >
+          基于S&P500和黄金历史数据，对金融资产收益率
+          进行探索性统计分析
+        description: |
+          使用R语言对金融资产收益率进行探索性数据分析，包括收益率分布的整体模式分析、厚尾现象检验、不同资产收益率组间差异对比及数据可视化。
+          分析工具：R / R Markdown
+  - title: A Little More About Me
+    layout: text
+    content: |
+      我是一个对数据分析和金融科技充满热情的学习者，正在不断探索如何利用AI Agent和大模型技术解决实际问题。
+
+# Footer
+footer_show_references: true
+
+# Build settings
+# remote_theme: sproogen/modern-resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude :
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - lib/
+  - scripts/
+  - docker-compose.yml
+  - outputs/

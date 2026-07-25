@@ -1,0 +1,9 @@
+﻿# Git repo directory (used for sandbox workaround)
+outputs/git_repo/
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
