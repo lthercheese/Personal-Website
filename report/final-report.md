@@ -42,12 +42,15 @@ AI 生成了代码和文档的草稿，所有内容（个人信息、项目描�
 
 ## 验证结果
 
-- GitHub Pages 链接可公开访问
+- GitHub Pages 链接可公开访问：https://lthercheese.github.io/Personal-Website/
 - 桌面端和手机端均可正常浏览
 - 五个基础区块齐全（Hero、About、Skills、Projects、Contact）
 - 项目报告可在线查看
 - 仓库含 PRD、Design、Checklist 文档
-- Git 提交记录 8 次，均写明确含义
+
+### Git 提交历史
+- 共 12 次有意义 Commit，涵盖 docs:、feat:、fix:、style:、chore: 等类型
+- 完整提交记录可公开查看：https://github.com/lthercheese/Personal-Website/commits/master
 
 ## 问题与后续计划
 
