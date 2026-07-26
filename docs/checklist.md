@@ -36,8 +36,9 @@
 - [x] docs/design.md 存在
 - [x] docs/checklist.md 存在
 - [x] report/final-report.md 存在
-- [ ] screenshots/ 至少 4 张截图
-- [x] Git 至少 3 次有意义 Commit（实际 8 次）
+- [x] screenshots/ 至少 4 张截图
+- [x] Git 至少 3 次有意义 Commit（实际 12 次）
+- [x] 仓库无模板残留文件（_test/ 已删除）
 
 ## 线上发布
 
@@ -48,6 +49,6 @@
 
 ## TA-Claw 提交
 
-- [ ] 预览代码、报告、截图和会话
-- [ ] 二次确认提交
-- [ ] 看到 Submitted successfully
+- [x] 预览代码、报告、截图和会话
+- [x] 二次确认提交
+- [x] 看到 Submitted successfully
